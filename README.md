@@ -8,7 +8,6 @@
 <br>
 <h2>Descarga la carpeta, y sigue los siguientes pasos:</h2>
 <ul>
-  <li>Descargar la carpeta</li>
   <li>Descomprimir la carpeta</li>
   <li>Carga la carpeta en tu Visual Studio Code</li>
   <li>Si quieres probar el código, ejecuta el comando: npm install</li>

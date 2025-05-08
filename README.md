@@ -1,4 +1,4 @@
-<h1>Aquí podrás encontrar todos los recursos necesarios para lograr seguir toda la explicación de video</h1>
+<h1>Aquí podrás encontrar todos los recursos necesarios para lograr seguir las explicaciones en el video</h1>
 <h2>Aquí podrás ubicar:</h2>
 <ul>
   <li>carpeta con todo el proyecto inicial creado con Angular 19</li>
